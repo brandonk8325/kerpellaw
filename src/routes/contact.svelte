@@ -84,7 +84,7 @@ textarea{
     <title>Contact - Kerpel Law</title>
 </svelte:head>
 <div class = "container">
-<form class="thisForm" name="contact" method="POST" action="/thank-you" netlify>
+<form class="thisForm" name="contact" method="POST" action="/thankyou" netlify>
   <div>
   <input type = "hidden" name = "form-name" value = "contact"/>
    <input type="text" class="form-control" placeholder="First Name*" id="firstName" name = "First Name" required>
