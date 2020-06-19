@@ -62,8 +62,8 @@
 </style>
 <div class="header bg-primary d-inline-block">
     <h1 class="text-light text-center header_text">Law <span class = "first_letter">O</span>ffices <span class = "first_letter">o</span>f <span class = "first_letter">D</span>avid <span class = "first_letter">S</span>. <span class = "first_letter">K</span>erpel, <span class = "first_letter">LLC</span></h1>
-    <h3 class="text-medium text-center text-light header_info">-Matrimonial and Family Law Representation for Clients in Northern
-        Illinois, Lake and Cook Counties-</h3>
+    <h3 class="text-medium text-center text-light header_info">Matrimonial and Family Law Representation for Clients in Northern
+        Illinois, Lake and Cook Counties</h3>
 </div>
 <nav class="navbar navbar-expand-lg sticky-top navbar-dark bg-primary">
     <div class="container">
