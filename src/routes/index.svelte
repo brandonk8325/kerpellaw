@@ -16,7 +16,7 @@
     .hero:after {
         
         background: #3f3b3b99;
-        opacity:.7;
+        opacity:.6;
         content: "";
         height: 100%;
         left: 0;
