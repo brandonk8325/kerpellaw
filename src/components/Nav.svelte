@@ -1,6 +1,5 @@
 <script>
     export let segment;
-
     const handleClick = () => alert('I warned you!');
 </script>
 
@@ -23,32 +22,25 @@
     .header_text::first-letter, .first_letter{
         font-size: 35px !important;
     }
-
     .header h1 {
         margin: 0;
     }
-
     .navbar-brand {
         margin: 0;
     }
-
     .nav-item {
         margin: 0 1rem;
         text-align: center;
     }
-
     .text-light {
         color: #f5f5f5 !important;
     }
-
     .navbar-dark, .big-primary, .header, .main {
         background-color: #1f1f1f !important;
     }
-
     .text-medium {
         color: #1f1f1f;
     }
-
     h3 {
         font-size: 15px;
         padding-top: 7px;
