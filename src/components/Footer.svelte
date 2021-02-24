@@ -55,7 +55,7 @@ p{
         <p>Contact Info: <span class = "vrysmall"><br></span><span class = "vrysmall"><br></span><span class="small"><br></span>Phone: 847-374-8257<br>Fax: 847-374-8258<br>Email: david@kerpellaw.com</p>
         </div>
         <div class = "middle">
-        <p>Mailing Address:<span class = "vrysmall"><br></span><br>Law Offices of David S. Kerpel, LLC<br>655 Deerfield<span class = "small"><br></span> Road<br>Suite 100<br>Deerfield, IL 60015</p>
+        <p>Mailing Address:<span class = "vrysmall"><br></span><br>Law Offices of David S. Kerpel, LLC<br>655 Deerfield<span class = "small"><br></span> Road<br>Suite 100, No. 408<br>Deerfield, IL 60015</p>
         </div>
     </div>
 </div>
