@@ -49,7 +49,7 @@ p{
 <div class = "black">
     <div class = "container">
         <div class = "left">
-        <p>Office Address: <span class = "vrysmall"><br></span><br><strong><bold>BY APPOINTMENT ONLY</bold></strong><br>420 Lake Cook Road<br>Suite 120<br>Deerfield, IL 60015</p>
+        <p>Office Address: <span class = "vrysmall"><br></span><br><strong><bold>BY APPOINTMENT ONLY</bold></strong><br>1020 Milwaukee Avenue<br>Suite 270<br>Deerfield, IL 60015</p>
         </div>
         <div class = "right">
         <p>Contact Info: <span class = "vrysmall"><br></span><span class = "vrysmall"><br></span><span class="small"><br></span>Phone: 847-374-8257<br>Fax: 847-374-8258<br>Email: david@kerpellaw.com</p>
